@@ -1,5 +1,5 @@
 # Serial-VS-Parallel-Sort---Exec-time
-Execution Time Introduction
+Execution Time Introduction Lec 1
 
 The files use STL Library to demonstrate the speeds for Parallel and Serial Sort.
 Time for serial Sort - Order of 30ms
